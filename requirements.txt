@@ -1,0 +1,6 @@
+jupyterlab-tour
+jupyterlab-night
+ipywidgets
+bqplot
+plotly
+pyviz_comms

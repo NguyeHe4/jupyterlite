@@ -1,0 +1,24 @@
+{
+  "name": "bokeh",
+  "release": {
+    "comment_text": "",
+    "digests": {
+      "md5": "12e0566954abb840d5f01dcf5ced297a",
+      "sha256": "2cbd8dc8ca72ec65f59ac202d4a623450fb0b328f2b2dd3aabe59910a9a9cbfe"
+    },
+    "downloads": -1,
+    "filename": "bokeh-3.1.1-py3-none-any.whl",
+    "has_sig": false,
+    "md5_digest": "12e0566954abb840d5f01dcf5ced297a",
+    "packagetype": "bdist_wheel",
+    "python_version": "py3",
+    "requires_python": ">=3.8",
+    "size": 1102133,
+    "upload_time": "2023-05-24T21:32:24.178395Z",
+    "upload_time_iso_8601": "2023-05-24T21:32:24.178395Z",
+    "url": "./bokeh-3.1.1-py3-none-any.whl",
+    "yanked": false,
+    "yanked_reason": null
+  },
+  "version": "3.1.1"
+}
